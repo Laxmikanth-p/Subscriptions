@@ -16,7 +16,7 @@ package ch.iec.tc57._2011.schema.message;
 public interface HeaderType extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(HeaderType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("headertype8c2dtype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(HeaderType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("headertype8c2dtype");
     
     /**
      * Gets the "Verb" element
@@ -456,7 +456,7 @@ public interface HeaderType extends org.apache.xmlbeans.XmlObject
     public interface Verb extends org.apache.xmlbeans.XmlString
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Verb.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("verb8288elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Verb.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("verb8288elemtype");
         
         org.apache.xmlbeans.StringEnumAbstractBase enumValue();
         void set(org.apache.xmlbeans.StringEnumAbstractBase e);

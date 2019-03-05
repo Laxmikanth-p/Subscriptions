@@ -17,7 +17,7 @@ package _0._1.messages._504.iec62325;
 public interface QueryDataDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(QueryDataDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("querydata87a5doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(QueryDataDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("querydata87a5doctype");
     
     /**
      * Gets the "QueryData" element
@@ -42,7 +42,7 @@ public interface QueryDataDocument extends org.apache.xmlbeans.XmlObject
     public interface QueryData extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(QueryData.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("querydata2d03elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(QueryData.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("querydata2d03elemtype");
         
         /**
          * Gets the "RequestParameters" element
@@ -67,7 +67,7 @@ public interface QueryDataDocument extends org.apache.xmlbeans.XmlObject
         public interface RequestParameters extends org.apache.xmlbeans.XmlObject
         {
             public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-                org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(RequestParameters.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("requestparameterse368elemtype");
+                org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(RequestParameters.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("requestparameterse368elemtype");
             
             /**
              * Gets array of all "Parameter" elements

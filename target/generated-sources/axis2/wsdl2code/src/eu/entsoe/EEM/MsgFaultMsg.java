@@ -10,7 +10,7 @@ package eu.entsoe.EEM;
 
 public class MsgFaultMsg extends java.lang.Exception{
 
-    private static final long serialVersionUID = 1551358479353L;
+    private static final long serialVersionUID = 1551795866970L;
     
     private ch.iec.tc57._2011.schema.message.FaultMessageDocument faultMessage;
 

@@ -16,7 +16,7 @@ package ch.iec.tc57._2011.schema.message;
 public interface UserType extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(UserType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("usertypea1eftype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(UserType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("usertypea1eftype");
     
     /**
      * Gets the "UserID" element

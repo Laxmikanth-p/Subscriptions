@@ -16,7 +16,7 @@ package _0._1.messages._504.iec62325;
 public interface TimeIntervalType extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(TimeIntervalType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("timeintervaltype9421type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(TimeIntervalType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("timeintervaltype9421type");
     
     /**
      * Gets the "start" element

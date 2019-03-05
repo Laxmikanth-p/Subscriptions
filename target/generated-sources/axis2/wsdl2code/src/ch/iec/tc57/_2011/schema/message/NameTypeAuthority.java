@@ -16,7 +16,7 @@ package ch.iec.tc57._2011.schema.message;
 public interface NameTypeAuthority extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(NameTypeAuthority.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("nametypeauthority8a48type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(NameTypeAuthority.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("nametypeauthority8a48type");
     
     /**
      * Gets the "name" element

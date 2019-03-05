@@ -16,7 +16,7 @@ package ch.iec.tc57._2011.schema.message;
 public interface RequestMessageType extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(RequestMessageType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("requestmessagetype4c62type");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(RequestMessageType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("requestmessagetype4c62type");
     
     /**
      * Gets the "Header" element

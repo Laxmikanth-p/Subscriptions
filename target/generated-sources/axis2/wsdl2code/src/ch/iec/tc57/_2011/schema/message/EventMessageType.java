@@ -16,7 +16,7 @@ package ch.iec.tc57._2011.schema.message;
 public interface EventMessageType extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(EventMessageType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("eventmessagetype8d6dtype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(EventMessageType.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("eventmessagetype8d6dtype");
     
     /**
      * Gets the "Header" element

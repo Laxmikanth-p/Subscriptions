@@ -17,7 +17,7 @@ package _0._1.messages._504.iec62325;
 public interface MessageListDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageListDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("messagelist4758doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageListDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("messagelist4758doctype");
     
     /**
      * Gets the "MessageList" element
@@ -42,7 +42,7 @@ public interface MessageListDocument extends org.apache.xmlbeans.XmlObject
     public interface MessageList extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageList.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("messagelist8b69elemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(MessageList.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("messagelist8b69elemtype");
         
         /**
          * Gets array of all "Message" elements
@@ -92,7 +92,7 @@ public interface MessageListDocument extends org.apache.xmlbeans.XmlObject
         public interface Message extends org.apache.xmlbeans.XmlObject
         {
             public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-                org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Message.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("message21fcelemtype");
+                org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Message.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("message21fcelemtype");
             
             /**
              * Gets the "Code" element

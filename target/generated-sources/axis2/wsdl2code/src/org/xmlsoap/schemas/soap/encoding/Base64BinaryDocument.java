@@ -17,7 +17,7 @@ package org.xmlsoap.schemas.soap.encoding;
 public interface Base64BinaryDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Base64BinaryDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("base64binarybb46doctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(Base64BinaryDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("base64binarybb46doctype");
     
     /**
      * Gets the "base64Binary" element

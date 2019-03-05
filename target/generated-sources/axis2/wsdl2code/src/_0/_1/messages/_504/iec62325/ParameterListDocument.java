@@ -17,7 +17,7 @@ package _0._1.messages._504.iec62325;
 public interface ParameterListDocument extends org.apache.xmlbeans.XmlObject
 {
     public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ParameterListDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("parameterlistccbadoctype");
+        org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ParameterListDocument.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("parameterlistccbadoctype");
     
     /**
      * Gets the "ParameterList" element
@@ -42,7 +42,7 @@ public interface ParameterListDocument extends org.apache.xmlbeans.XmlObject
     public interface ParameterList extends org.apache.xmlbeans.XmlObject
     {
         public static final org.apache.xmlbeans.SchemaType type = (org.apache.xmlbeans.SchemaType)
-            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ParameterList.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.s266CFF65F562F869CFFAFB14C68F09DF").resolveHandle("parameterlista5adelemtype");
+            org.apache.xmlbeans.XmlBeans.typeSystemForClassLoader(ParameterList.class.getClassLoader(), "schemaorg_apache_xmlbeans.system.sAC3813994560026AD5430C93CC4F259D").resolveHandle("parameterlista5adelemtype");
         
         /**
          * Gets array of all "Parameter" elements

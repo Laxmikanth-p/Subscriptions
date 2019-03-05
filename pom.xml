@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>eu.entsoe.EEM</groupId>
   <artifactId>Subscriptions</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <build>
      <resources>
        <resource>
@@ -11,6 +11,7 @@
        <resource>
            <directory>target/generated-sources/axis2/wsdl2code/resources</directory>
        </resource>
+
    </resources>
   
   <plugins>
@@ -61,6 +62,25 @@
                 <executable>C:\Program Files\Java\jdk1.8.0_201\bin\javac.exe</executable>
             </configuration>
         </plugin>
+                   <plugin>
+    <groupId>org.codehaus.mojo</groupId>
+    <artifactId>xmlbeans-maven-plugin</artifactId>
+    <executions>
+       <execution>
+          <goals>
+       <goal>xmlbeans</goal>
+          </goals>
+       </execution>
+    </executions>
+    <inherited>true</inherited>
+    <configuration>
+     <schemaDirectory>src/main/resources/xsd/cim/</schemaDirectory>
+     
+                <compiler>C:\Program Files\Java\jdk1.8.0_201\bin\javac.exe</compiler>
+    </configuration>
+   </plugin>
+        
+
   </plugins>
   </build>
   <dependencies>
