@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- This file was auto-generated from WSDL --><!-- by the Apache Axis2 version: 1.6.1  Built on : Aug 31, 2011 (12:22:40 CEST) --><serviceGroup>
+    <service name="ServiceEME">
+        <messageReceivers>
+            <messageReceiver mep="http://www.w3.org/ns/wsdl/in-out" class="eu.entsoe.EEM.ServiceEMEMessageReceiverInOut"/>
+        </messageReceivers>
+        <parameter name="ServiceClass">eu.entsoe.EEM.ServiceEMESkeleton</parameter>
+        <parameter name="useOriginalwsdl">true</parameter>
+        <parameter name="modifyUserWSDLPortAddress">true</parameter>
+        <operation name="request" mep="http://www.w3.org/ns/wsdl/in-out" namespace="urn:iec62325.504:wss:1:0">
+            <actionMapping>urn:iec62325.504:wss:1:0:port_TFEDI_type:requestRequest</actionMapping>
+            <outputActionMapping>urn:iec62325.504:wss:1:0:port_TFEDI_type:requestResponse</outputActionMapping>
+            <faultActionMapping faultName="msgFaultMessage">urn:iec62325.504:wss:1:0:port_TFEDI_type:request:Fault:msgFaultMessage</faultActionMapping>
+            <faultActionMapping faultName="MsgFaultMsg">urn:iec62325.504:wss:1:0:port_TFEDI_type:request:Fault:msgFaultMessage</faultActionMapping>
+            <faultActionMapping faultName="MsgFaultMsg_Exception">urn:iec62325.504:wss:1:0:port_TFEDI_type:request:Fault:msgFaultMessage</faultActionMapping>
+            <faultActionMapping faultName="msgFaultMsg">urn:requestmsgFaultMsg</faultActionMapping>
+        </operation>
+    </service>
+</serviceGroup>
